@@ -1,0 +1,123 @@
+#header {
+    background-color:#c8102e;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#c8102e;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+
+
+div#menu { 
+   margin: 0; 
+   padding: 1em 0 1em 0; 
+   background: #c8102e; 
+   width: 100%; 
+   text-align: center; 
+} 
+
+div#menu ul { 
+   list-style: none; 
+   margin: 0; 
+   padding: 0; 
+} 
+
+div#menu ul li { 
+   margin: 0; 
+   padding: 0; 
+   display: inline; 
+} 
+
+div#menu ul a:link{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: white; 
+} 
+
+div#menu ul a:visited{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #227755; 
+} 
+
+div#menu ul a:active{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #c8102e; 
+} 
+
+div#menu ul a:hover{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color:  #c8102e; 
+   background-color: #c8102e; 
+}
+
+div#images {
+ margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+  
+}
+  
+div#register {
+  float: right;
+}
+
+#footer {
+    width:1300px;
+    height: 150px;
+    padding: 10px;
+    font-size: 14px;
+    background-color:#383838;
+    color:white;
+    clear:both;
+    text-align:center;
+    }
+#footer div {
+    float:left;
+    width:300px;
+    padding-right: 125px;
+}
+#footer_left {
+    text-align:center;
+    
+}
+#footer_middle {
+    text-align:center;
+    
+}
+
+
+#footer_right {
+    text-align:center;
+    
+}
+
+
